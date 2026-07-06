@@ -22,8 +22,8 @@ int main(){
 
   //   v.erase(v.begin()+1);
 
-  //  for(auto &it : v){
-  //      cout<<it<<" ";
-  //  }
+ //   for(auto &it : v){
+   //     cout<<it<<" ";
+  // }
   
   }
