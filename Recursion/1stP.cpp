@@ -1,3 +1,5 @@
+//Print name no of times
+
 #include<bits/stdc++.h>
 using namespace std;
 void f1toN(int i,int n) {
