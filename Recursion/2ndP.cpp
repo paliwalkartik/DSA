@@ -1,3 +1,5 @@
+//Prints number in reverse
+
 #include<bits/stdc++.h>
 using namespace std;
 void fNto1(int i,int n) {
